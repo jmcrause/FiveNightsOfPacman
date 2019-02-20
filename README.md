@@ -1,4 +1,4 @@
-# FiveNightsOfPacman
+# Five Nights Of Pacman
 
 An adaptation of the classic PACMAN Game, in the style of the modern Indie Horror game "Five Nights at Freddy's".
 

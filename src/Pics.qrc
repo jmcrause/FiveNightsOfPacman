@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/pacman">
+        <file>pacman1.png</file>
+        <file>pacman2.png</file>
+        <file>pacman3.png</file>
+        <file>pacman4.png</file>
+        <file>pacman5.png</file>
+        <file>pacman6.png</file>
+        <file>pacman7.png</file>
+        <file>pacman8.png</file>
+    </qresource>
+    <qresource prefix="/animatronics">
+        <file>Bonnie.png</file>
+        <file>Chika.png</file>
+        <file>Foxy.png</file>
+        <file>Freddie.png</file>
+    </qresource>
+    <qresource prefix="/decor">
+        <file>decor/BlueTable.png</file>
+        <file>decor/CornerTable.png</file>
+        <file>decor/RedTable.png</file>
+        <file>decor/YellowTable.png</file>
+    </qresource>
+    <qresource prefix="/flashlight">
+        <file>Flashlight/flash1.png</file>
+        <file>Flashlight/flash2.png</file>
+        <file>Flashlight/flash3.png</file>
+        <file>Flashlight/flash4.png</file>
+        <file>Flashlight/flash5.png</file>
+        <file>Flashlight/flash6.png</file>
+        <file>Flashlight/flash7.png</file>
+        <file>Flashlight/flash8.png</file>
+    </qresource>
+</RCC>

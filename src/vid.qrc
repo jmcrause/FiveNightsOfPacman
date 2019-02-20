@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/vids">
+        <file>vids/GoldenFreddie.mp4</file>
+        <file>vids/Menu.mp4</file>
+    </qresource>
+    <qresource prefix="/pics">
+        <file>pacman1.jpg</file>
+        <file>pacman1.png</file>
+        <file>black.png</file>
+        <file>Capture.JPG</file>
+    </qresource>
+</RCC>
